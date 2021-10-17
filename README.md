@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahilasopa
 - 👀 I’m interested in Backend Development 
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Python  
+- 💞️ I’m looking to collaborate with Java  
 - 📫 How to reach me @sahilasopa on instagram or mail:sahilasopa12@gmail.com 
 
 <!---
