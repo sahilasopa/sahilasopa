@@ -1,3 +1,4 @@
+![Metrics](/github-metrics.svg)
 <h1 align="center">Hi, I'm Sahil Asopa</h1>
 <h3 align="center">A passionate android/backend developer from India</h3>
 
